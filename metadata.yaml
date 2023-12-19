@@ -1,0 +1,33 @@
+_repo: The-satellite-keeper-s-daughter_72148
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Reinsberg, Mark
+    alias: Reinsberg, Mark Simon
+    birthdate: 1923
+    deathdate: 1981
+    gutenberg_agent_id: '53200'
+    url: http://www.gutenberg.org/2009/agents/53200
+description: ''
+gutenberg_issued: '2023-11-17'
+identifiers:
+  gutenberg: '72148'
+language: en
+pgterms:marc905: 20231020055121reinsberg
+pgterms:marc906: '1956'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bKing-Size Publications, Inc., $c1956.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Space travelers -- Fiction'
+- !lcsh 'Hotels -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The satellite-keeper's daughter
+url: http://www.gutenberg.org/ebooks/72148
