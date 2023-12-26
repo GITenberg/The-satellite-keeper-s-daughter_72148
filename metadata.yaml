@@ -1,5 +1,8 @@
 _repo: The-satellite-keeper-s-daughter_72148
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72148-h/images/cover.jpg
 creator:
   author:
     agent_name: Reinsberg, Mark
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '53200'
     url: http://www.gutenberg.org/2009/agents/53200
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72148#The-satellite-keeper-s-daughter
 gutenberg_issued: '2023-11-17'
 identifiers:
   gutenberg: '72148'
